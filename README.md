@@ -43,10 +43,11 @@ Before you begin, ensure you have the following installed:
 ### Execution
 
 To run the Streamlit application, navigate to the directory where `app.py` is located in your terminal and execute:
-
-```bash
 streamlit run app.py
 
-### This is how the output is looking for one of the website that i have used for testing "https://fastapi.tiangolo.com/"
+### 🖼️ Output Example
+
+This is how the output is looking for one of the websites that I used for testing: [https://fastapi.tiangolo.com/](https://fastapi.tiangolo.com/)
 
 ![image](https://github.com/user-attachments/assets/38342bc8-64d6-4438-9344-6205a00e037d)
+
