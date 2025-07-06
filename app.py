@@ -27,7 +27,7 @@ def get_domain(url):
 
 def extract_content(soup):
     """
-    Extracts the main content from a BeautifulSoup object for FastAPI documentation.
+    Extracts the main content from a BeautifulSoup object for FastAPI documentation
     """
     # Inspect FastAPI's HTML. The main content is usually within a div with class 'md-content'
     # or sometimes directly in a <article> tag.
